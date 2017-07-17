@@ -1,0 +1,54 @@
+body {
+  font-family: verdana, sans-serif;
+  text-align: center;
+  background-color: #F6F6F6;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 600;
+  background-color: #E1BC29;
+  color: white;
+}
+
+#title {
+  color: #E15554;
+  padding: 20px;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.coaching-list {
+  font-size: 20px;
+  font-weight: 100;
+  text-align: left;
+}
+
+.capped-players {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+}
+
+.capped-players .active {
+  font-weight: bold;
+}
+
+.last-results {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+}
+.goals {
+  color: #E15554;
+  text-decoration: none;
+  font-size: 20px;
+}
